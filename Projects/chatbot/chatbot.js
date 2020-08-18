@@ -13,9 +13,12 @@ var filippoInfo = {
     }
   }
   function personalChatbot(input) {
-      switch(input) {
+
+    input = document.getElementById("question").value;
+      
+    switch(input) {
         case "What's your name?":
-          return filippoInfo.generalInfo.firstName;
+          return document.getElementById("answer").innerHTML=filippoInfo.generalInfo.firstName; 
           break;
         case "What's your full name?":
           return filippoInfo.generalInfo.firstName + " " + filippoInfo.generalInfo.lastName;
@@ -38,6 +41,6 @@ var filippoInfo = {
       }
 
   }
-  console.log(personalChatbot("What's your favorite league?"));
+  
   
   
