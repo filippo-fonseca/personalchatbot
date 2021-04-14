@@ -1,0 +1,316 @@
+.wrapper {
+    position: absolute;
+width: 1200px;
+height: 2238px;
+left: 0px;
+top: 1px;
+
+background: #F8F8F8;
+border-radius: 0px;
+}
+.intro-header img {
+    position: absolute;
+    width: 238px;
+    height: 99px;
+
+
+}
+.intro-header h1 {
+    position: absolute;
+width: 955px;
+height: 122px;
+left: 123px;
+top: 122px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 61px;
+text-align: center;
+
+color: #6d4848;
+}
+.btn-1 {
+    position: absolute;
+width: 86px;
+height: 44px;
+left: 424px;
+top: 264px;
+color: white;
+background: #3B60FF;
+border: 1px solid #EBEBEB;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.btn-2 {
+    position: absolute;
+width: 216px;
+height: 44px;
+left: 520px;
+top: 264px;
+
+background: #F8F8F8;
+border: 1px solid #EBEBEB;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.p1 {
+    position: absolute;
+    width: 488px;
+    height: 16px;
+    left: 336px;
+    top: 329px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #8E8E8E;
+}
+.p2 {
+    position: absolute;
+    width: 346px;
+    height: 24px;
+    left: 427px;
+    top: 452px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #8E8E8E;
+}
+.hello {
+    position: absolute;
+width: 118px;
+height: 35px;
+left: 541px;
+top: 410px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+
+}
+.second-part h1 {
+    position: absolute;
+width: 1215px;
+height: 82px;
+left: -15px;
+top: 546px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 37px;
+line-height: 47px;
+/* or 128% */
+
+text-align: center;
+letter-spacing: 0.19px;
+
+color: #111111;
+
+}
+.second-part h3 {
+    position: absolute;
+width: 472px;
+height: 60px;
+left: 343px;
+top: 609px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+text-align: center;
+
+color: rgba(0, 0, 0, 0.6);
+
+}
+.int {
+    position: absolute;
+width: 183px;
+height: 50px;
+}
+.safe {
+    position: absolute;
+width: 310px;
+height: 274px;
+left: 239px;
+top: 605px;
+
+}
+.on {
+    position: absolute;
+width: 142px;
+height: 142px;
+}
+.emprende {
+    position: absolute;
+width: 218px;
+height: 81px;
+}
+.supply {
+    position: absolute;
+width: 159px;
+height: 159px;
+}
+.what h2 {
+    position: absolute;
+width: 236px;
+height: 29px;
+left: 17px;
+top: 825px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+}
+.what p {
+    position: absolute;
+width: 679px;
+height: 55px;
+left: 17px;
+top: 868px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* or 139% */
+
+
+color: #000000;
+
+}
+iframe {
+    position: absolute;
+width: 620px;
+height: 312px;
+left: 244px;
+top: 934px;
+}
+.who-we-are h2 {
+    position: absolute;
+    width: 138px;
+    height: 29px;
+    left: 21px;
+    top: 1268px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    color: #000000;
+}
+.who-we-are p {
+    position: absolute;
+width: 679px;
+height: 55px;
+left: 17px;
+top: 868px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* or 139% */
+
+
+color: #000000;
+}
+.filippo {
+    position: absolute;
+width: 200px;
+height: 300px;
+left: 19px;
+top: 1381px;
+
+border: 1px solid #EBEBEB;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.filippo-img {
+    position: absolute;
+width: 118px;
+height: 118px;
+left: 60px;
+top: 1388px;
+border-radius: 0px;
+}
+.filippo h5 {
+    position: absolute;
+width: 114px;
+height: 19px;
+left: 62px;
+top: 1512px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.filippo h6 {
+    position: absolute;
+    width: 156px;
+    height: 28px;
+    left: 41px;
+    top: 1537px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+.filippo p {
+    
+    width: 93px;
+    height: 16px;
+    left: 73px;
+    top: 1578px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #8E8E8E;
+}
+.twitter-icon-f {
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 109px;
+top: 1612px;
+
+}
