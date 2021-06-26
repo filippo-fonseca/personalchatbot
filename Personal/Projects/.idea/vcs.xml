@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dashboard-NeuroTech" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProjectInitializationAutomation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/agecalc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/alexaskill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chat-rust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/counter-gui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpp-tic-tac-toe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crypto-dash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/decodify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/genetics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gmail-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-image-processor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iOS/CalcNow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mark-bday" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mark-xmas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mathium-t" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mathium-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mathiumdocs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mathiumjs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/menu-electron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mj-surprise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mojo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-tree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/node_nlp_sentiment_analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pom-electron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proj-init" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py-snake-food" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py_sudoku" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sentiment_analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/socket-chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tempus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tipcalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/typingtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/update-github-bio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/url-shortener/url" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weather-fy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weather_go" vcs="Git" />
+  </component>
+</project>

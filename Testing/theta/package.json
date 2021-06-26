@@ -1,0 +1,15 @@
+{
+  "name": "theta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com> (https://www.zyndicate.app/)",
+  "license": "MIT",
+  "dependencies": {
+    "thetajs": "1.1.1"
+  }
+}

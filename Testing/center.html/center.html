@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Dead center!</title>
+    <style>
+      body {
+        height: 100vh;
+      }
+      .box.flex {
+        display: flex;
+        justify-content: center;
+        height: 100%;
+      }
+
+      .box {
+        padding: 0.5rem;
+        height: 300px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.03);
+        border-radius: 4px;
+
+        color: #84613d;
+        font-family: "Lucida Console", Monaco, monospace;
+        background: #fdf9ea;
+        border-bottom: 1px solid #f9f2d6;
+        border-right: 1px solid #f9f2d6;
+        align-self: center;
+      }
+
+      .box p {
+        max-width: 125px;
+        text-align: center;
+        background: rgba(255, 255, 255, 0.5);
+        margin: 0.25rem;
+        padding: 0.25rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box flex">
+      <p>
+        <img src="/images/pirate.svg" width="75" />
+        arrr!
+      </p>
+      <p>
+        <img src="/images/cowboy.svg" width="75" />
+        yeehaw!
+      </p>
+    </div>
+  </body>
+</html>
